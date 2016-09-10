@@ -1,0 +1,16 @@
+html, body {
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2em;
+}
+h1 {
+	margin-top: 50px;
+}
+
+.btn {
+	padding: 10px 15px;
+	background: #2fbe6d;
+	color: white;
+	font-weight: bolder;
+}
